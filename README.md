@@ -1,3 +1,3 @@
-MovieQL Client
+# MovieQL
 
-Movie Ql
+Client for the MovieQL API built with Apollo
